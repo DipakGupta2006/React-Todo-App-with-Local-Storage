@@ -47,27 +47,6 @@ npm install
 
 npm run dev
 
-## 📸 Features Demonstration
-
-### Add Todo
-
-Users can add new tasks to the list.
-
-### Edit Todo
-
-Existing tasks can be modified at any time.
-
-### Delete Todo
-
-Tasks can be removed permanently.
-
-### Complete Todo
-
-Users can mark tasks as completed using a checkbox.
-
-### Local Storage
-
-All todos remain saved even after refreshing or reopening the browser.
 
 ## 🧠 React Concepts Used
 
